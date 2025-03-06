@@ -1,4 +1,4 @@
-# Bank-App
+# Bank Account Management System
 
 This project is a Bank Account Management System implemented in Python. It includes user authentication, customer operations, and admin operations.
 
@@ -28,6 +28,3 @@ This project is a Bank Account Management System implemented in Python. It inclu
    ```bash
    pip install cryptography
    pip install tkinter
-
-## License
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. This license ensures that any modifications to the code must also be open source and distributed under the same license. It also includes a clause that requires anyone who uses the code over a network to make the source code available to their users.
